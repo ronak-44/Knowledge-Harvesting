@@ -10,3 +10,6 @@
 * Crawling and processing the data - Used web scraping libraries to scrap the README page to get the raw data.
 * The raw data was processed and information was extracted in the form of key/value pairs.
 * Train a QA specific information extraction model that is capable of generating relevant answers for the given question from the corpus.
+
+## Pipeline
+![Alt text](https://github.com/ronak-44/Knowledge-Harvesting/blob/main/KH-Pipeline.png)
